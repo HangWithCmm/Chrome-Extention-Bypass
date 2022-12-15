@@ -1,4 +1,4 @@
-WARNING: I AM NOT RESPONSIBLE FOR ANYTHING YOU DO WITH THIS
+WARNING: I AM NOT RESPONSIBLE FOR ANYTHING IF YOU USE THIS
 
 Patched in Chrome v106+ to check your chrome version goto chrome://version/
 
